@@ -12,8 +12,11 @@ PCB: [OSHW](https://oshwhub.com/o1ppbb/cap4k)
 Arduino IDE 2.0.1
 ### lib
 Adafruit_NeoPixel 1.10.7
+
 Adafruit_FreeTouch 1.1.1
+
 Keyboard
+
 ### board
 seeed SAMD 1.8.3
 
