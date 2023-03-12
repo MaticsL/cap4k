@@ -9,3 +9,6 @@ Adafruit_NeoPixel 1.10.7
 Keyboard
 ### board
 seeed SAMD 1.8.3
+
+# LICENSE
+CERN Open Hardware License
